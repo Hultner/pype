@@ -3,12 +3,13 @@
 Author: Alexander Hultnér
 
 The idea is to allow for pipestyle programming in python eg.
-p(
-  [1,2,3]
-  | lambda x: x*2
-  | sum
-)
-> 12
+
+>>> p(
+...   [1,2,3]
+...   | lambda x: x*2
+...   | sum
+... )
+ 12
 
 Roadmap:
     [x] Basic PoC using commas instead of pipes
