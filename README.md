@@ -1,5 +1,6 @@
-# pype
-Add pipe operators to python through introspection. This is created for fun interpreter and script usage, not meant for production systems.
+# pype | functional piplines
+**Add pipe operators to python through introspection**  
+This is created for fun interpreter and script usage, not meant for production systems.
 
 The idea is to allow for pipestyle programming in python eg.
 ```python
