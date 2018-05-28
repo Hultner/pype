@@ -21,8 +21,13 @@ Roadmap:
     [ ] Write a short article on the project and how it can be used
 
 """
+from typing import Callable, Any
 
-def pipe(in_, *args: "Function"):
+
+# def pipe(in_: t1, *args: Callable[[t1], tr]) -> tr:
+
+
+def pipe(in_: Any, *args: Callable[[Any], Any]) -> Any:
     """Basic pipe functionality
 
     Example usage:
