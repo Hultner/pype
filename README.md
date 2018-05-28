@@ -1,6 +1,7 @@
-# pype | functional piplines
+# py|pe | functional piplines
 **Add pipe operators to python through introspection**  
-This is created for fun interpreter and script usage, not meant for production systems.
+The name **pype** was picked for it's _punny_ similarity to pipe. But it's also a [backronym](https://en.wikipedia.org/wiki/Backronym) for _**py**thon **p**ipe **e**xrpression_. 
+ 
 
 The idea is to allow for pipestyle programming in python eg.
 ```python
@@ -36,3 +37,6 @@ This is rough roadmap, subject to change.
  'They lie'
 
 ```
+
+---
+_pype is built for fun interpreter and script usage, it's not meant for production systems_
