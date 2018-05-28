@@ -23,6 +23,8 @@ This is rough roadmap, subject to change.
 - [ ] Publish to pypi
 - [ ] Write a short article on the project and documentation
 - [ ] Integrate external tools
+  - [ ] [whatever](https://pypi.org/project/whatever/#description)
+  - [ ] [PyToolz](https://github.com/pytoolz/toolz)
  
 ## PoC version
  This is how the tool can currenly be used
